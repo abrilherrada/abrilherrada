@@ -55,7 +55,7 @@ A MERN stack application facilitating animal adoptions for shelters and adopters
 ### 🕊️ [Wedding App](https://github.com/abrilherrada/wedding-app)
 A personalized digital wedding invitation and RSVP management app.
 
-- **Role:** Sole developer and designer.
+- **Role:** Sole frontend developer and designer.
 - **Features:**
   - Guest-side forms for RSVP confirmations and reservations.
   - Admin dashboard with user authentication for managing guest data.
