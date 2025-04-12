@@ -72,23 +72,6 @@ An online store with dynamic routing and Firebase backend. My first full React a
   - Checkout logic.
   - Responsive design.
 
-### 📋 [React To-Do App](https://github.com/abrilherrada/reactjs_to-do-app)
-A simple to-do application built with React and Vite.
-
-- **Features:**
-  - Add, delete, and reorder tasks.
-  - Mark tasks as completed, with completed tasks displayed separately.
-  - Responsive design and state management.
-
-### 🗓️ [React Calendar Component](https://github.com/abrilherrada/reactjs_calendar-component)
-A fully functional calendar built with React and Vite.
-
-- **Features:**
-  - Dynamic month/year changes.
-  - Localization-ready weekday headers.
-  - Easy integration into other React projects.
-  - Minimal setup with Vite and ESLint configurations.
-
 ## Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abrilherrada)
