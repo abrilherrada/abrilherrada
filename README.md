@@ -74,6 +74,6 @@ An online store with dynamic routing and Firebase backend. My first full React a
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abrilherrada)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abril-herrada/)
 - 📧 [Email](mailto:abrilherrada@email.com)
 - 👩‍💻 [My GitHub Portfolio](https://github.com/abrilherrada?tab=repositories)
